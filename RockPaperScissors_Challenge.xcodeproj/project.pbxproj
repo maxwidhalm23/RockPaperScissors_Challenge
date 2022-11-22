@@ -17,6 +17,8 @@
 		D863E0BF292289F300A36C4D /* RockPaperScissors_ChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D863E0BE292289F300A36C4D /* RockPaperScissors_ChallengeTests.swift */; };
 		D863E0C9292289F300A36C4D /* RockPaperScissors_ChallengeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D863E0C8292289F300A36C4D /* RockPaperScissors_ChallengeUITests.swift */; };
 		D863E0CB292289F300A36C4D /* RockPaperScissors_ChallengeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D863E0CA292289F300A36C4D /* RockPaperScissors_ChallengeUITestsLaunchTests.swift */; };
+		D8B8B43129266E1800096819 /* Play1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B8B43029266E1800096819 /* Play1ViewController.swift */; };
+		D8B8B43329266E4200096819 /* Play2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B8B43229266E4200096819 /* Play2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		D863E0C4292289F300A36C4D /* RockPaperScissors_ChallengeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RockPaperScissors_ChallengeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D863E0C8292289F300A36C4D /* RockPaperScissors_ChallengeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaperScissors_ChallengeUITests.swift; sourceTree = "<group>"; };
 		D863E0CA292289F300A36C4D /* RockPaperScissors_ChallengeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaperScissors_ChallengeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D8B8B43029266E1800096819 /* Play1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Play1ViewController.swift; sourceTree = "<group>"; };
+		D8B8B43229266E4200096819 /* Play2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Play2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				D863E0A6292289F200A36C4D /* SceneDelegate.swift */,
 				D863E0A8292289F200A36C4D /* ViewController.swift */,
 				D863E0AA292289F200A36C4D /* Main.storyboard */,
+				D8B8B43229266E4200096819 /* Play2ViewController.swift */,
+				D8B8B43029266E1800096819 /* Play1ViewController.swift */,
 				D863E0B0292289F300A36C4D /* Assets.xcassets */,
 				D863E0B2292289F300A36C4D /* LaunchScreen.storyboard */,
 				D863E0B5292289F300A36C4D /* Info.plist */,
@@ -263,6 +269,8 @@
 			files = (
 				D863E0A9292289F200A36C4D /* ViewController.swift in Sources */,
 				D863E0A5292289F200A36C4D /* AppDelegate.swift in Sources */,
+				D8B8B43129266E1800096819 /* Play1ViewController.swift in Sources */,
+				D8B8B43329266E4200096819 /* Play2ViewController.swift in Sources */,
 				D863E0AF292289F200A36C4D /* RockPaperScissors_Challenge.xcdatamodeld in Sources */,
 				D863E0A7292289F200A36C4D /* SceneDelegate.swift in Sources */,
 			);
